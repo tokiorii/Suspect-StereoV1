@@ -1,7 +1,8 @@
 # Suspect-StereoV1
 Discord Stereo Plugin "Suspect StereoV1"
 
-```Prop Stereo,
+```
+Prop Stereo,
 
 Expermimental Encoders,
 
