@@ -2,9 +2,9 @@
 Discord Stereo Plugin "Suspect StereoV1"
 
 ```
-Prop Stereo,
-
 Expermimental Encoders,
+
+Prop Stereo,
 
 Mono And Stereo,
 
